@@ -1,0 +1,21 @@
+[
+{
+    "id": 1,
+    "menuItem": "Get Student By ID"
+},
+{
+    "id": 2,
+    "menuItem": "Get All Students"
+    
+},
+{
+    "id": 3,
+    "menuItem": "Add Student"
+    
+},
+{
+    "id": 4,
+    "menuItem": "Logout"
+    
+}
+]
